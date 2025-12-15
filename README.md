@@ -22,3 +22,7 @@ https://leetcode.com/problems/last-person-to-fit-in-the-bus/submissions/18561270
 https://leetcode.com/problems/product-price-at-a-given-date/submissions/1856139941/
 
 //hard.............
+
+https://leetcode.com/problems/department-top-three-salaries/
+
+https://leetcode.com/problems/trips-and-users/description/
