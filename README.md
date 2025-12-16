@@ -5,6 +5,8 @@
 
 https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/?envType=daily-question&envId=2025-12-15
 
+/////partially correct-https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/?envType=daily-question&envId=2025-12-16
+
 https://leetcode.com/problems/nth-highest-salary/
 
 https://leetcode.com/problems/consecutive-numbers/
